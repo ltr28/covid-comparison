@@ -1,1 +1,6 @@
-*.csv
+
+out/*
+
+# Allow the following files for the README
+!out/oecd.png
+
